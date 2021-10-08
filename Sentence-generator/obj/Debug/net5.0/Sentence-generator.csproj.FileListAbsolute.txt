@@ -1,0 +1,16 @@
+D:\Dev\Git_racine\cSharp-dotnet-learn\coursC#\Sentence-generator\Sentence-generator\bin\Debug\net5.0\Sentence-generator.exe
+D:\Dev\Git_racine\cSharp-dotnet-learn\coursC#\Sentence-generator\Sentence-generator\bin\Debug\net5.0\Sentence-generator.deps.json
+D:\Dev\Git_racine\cSharp-dotnet-learn\coursC#\Sentence-generator\Sentence-generator\bin\Debug\net5.0\Sentence-generator.runtimeconfig.json
+D:\Dev\Git_racine\cSharp-dotnet-learn\coursC#\Sentence-generator\Sentence-generator\bin\Debug\net5.0\Sentence-generator.runtimeconfig.dev.json
+D:\Dev\Git_racine\cSharp-dotnet-learn\coursC#\Sentence-generator\Sentence-generator\bin\Debug\net5.0\Sentence-generator.dll
+D:\Dev\Git_racine\cSharp-dotnet-learn\coursC#\Sentence-generator\Sentence-generator\bin\Debug\net5.0\ref\Sentence-generator.dll
+D:\Dev\Git_racine\cSharp-dotnet-learn\coursC#\Sentence-generator\Sentence-generator\bin\Debug\net5.0\Sentence-generator.pdb
+D:\Dev\Git_racine\cSharp-dotnet-learn\coursC#\Sentence-generator\Sentence-generator\obj\Debug\net5.0\Sentence-generator.csproj.AssemblyReference.cache
+D:\Dev\Git_racine\cSharp-dotnet-learn\coursC#\Sentence-generator\Sentence-generator\obj\Debug\net5.0\Sentence-generator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Git_racine\cSharp-dotnet-learn\coursC#\Sentence-generator\Sentence-generator\obj\Debug\net5.0\Sentence-generator.AssemblyInfoInputs.cache
+D:\Dev\Git_racine\cSharp-dotnet-learn\coursC#\Sentence-generator\Sentence-generator\obj\Debug\net5.0\Sentence-generator.AssemblyInfo.cs
+D:\Dev\Git_racine\cSharp-dotnet-learn\coursC#\Sentence-generator\Sentence-generator\obj\Debug\net5.0\Sentence-generator.csproj.CoreCompileInputs.cache
+D:\Dev\Git_racine\cSharp-dotnet-learn\coursC#\Sentence-generator\Sentence-generator\obj\Debug\net5.0\Sentence-generator.dll
+D:\Dev\Git_racine\cSharp-dotnet-learn\coursC#\Sentence-generator\Sentence-generator\obj\Debug\net5.0\ref\Sentence-generator.dll
+D:\Dev\Git_racine\cSharp-dotnet-learn\coursC#\Sentence-generator\Sentence-generator\obj\Debug\net5.0\Sentence-generator.pdb
+D:\Dev\Git_racine\cSharp-dotnet-learn\coursC#\Sentence-generator\Sentence-generator\obj\Debug\net5.0\Sentence-generator.genruntimeconfig.cache
